@@ -4,7 +4,7 @@ title: Horarios y Lugares de Práctica
 excerpt: Cronograma actualizado de días, horarios y lugares de práctica.
 permalink: /horarios/
 ---
-###### Lista actualizado el {{ site.time | date: '%d/%m/%Y' }}
+###### Lista actualizada el {{ site.time | date: '%d/%m/%Y' }}
 
 |-------------------------------------------------------------------|-------|--------|-----------|--------|---------|--------|
 | Instructor<br/>Lugar<br/>Dirección                                | Lunes | Martes | Miércoles | Jueves | Viernes | Sábado |

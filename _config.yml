@@ -14,22 +14,32 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Escuela Grulla Blanca
-email: your-email@example.com
+email: ""
 description: >- # this means to ignore newlines until "baseurl:"
   Escuela de Tai Chi Chuan Grulla Blanca,
   Sede sudamericana de Shun Yuan Cheng Tzu Tai Chi
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.grullablanca.com" # the base hostname & protocol for your site, e.g. http://example.com
+logo: "/assets/logo_grulla_small.png"
+logo_right: "/assets/logo_shun_small.png"
 #twitter_username: jekyllrb
 github_username:  GrullaBlanca
 facebook_username: EscuelaGrullaBlanca
-
+social:
+  name: Escuela Grulla Blanca
+  links:
+    - https://www.facebook.com/EscuelaGrullaBlanca
+    - https://github.com/GrullaBlanca
+lang: es_AR
 timezone: America/Rosario
 encoding: utf-8
 
 # Build settings
 markdown: kramdown
 theme: minima
+minima:
+    date_format: "%e/%m/%Y"
+
 plugins:
   - jekyll-feed
 

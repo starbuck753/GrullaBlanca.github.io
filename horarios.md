@@ -22,4 +22,4 @@ permalink: /horarios/
 
 
 
-Por consultas por favor comunicarse a través de nuestra página de Facebook: <https://www.facebook.com/EscuelaGrullaBlanca/>
+Por consultas por favor comunicarse a través de mensajes en nuestra página de Facebook: <https://m.me/EscuelaGrullaBlanca/>

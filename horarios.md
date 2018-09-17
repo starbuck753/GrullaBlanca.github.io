@@ -10,8 +10,8 @@ permalink: /horarios/
 | Instructor<br/>Lugar<br/>Dirección                                | Lunes | Martes | Miércoles | Jueves | Viernes | Sábado |
 |-------------------------------------------------------------------|-------|--------|-----------|--------|---------|--------|
 | Gabriel<br/>Plataforma Lavarden<br/>Mendoza 1085                  |  9:30 |        |  9:30     |        |         |        |
-| Vladimir<br/>Silos Davis<br/>Oroño y el Río                       |  8:00 |        |  8:00     |        |  8:00   |        |
-| Vladimir<br/>CMDN Villa Hortensia<br/>Warnes 1917                 |       |        |           |        | 16:00   |        |
+| Vladimir<br/>Parque Sunchales<br/>Alvear y el Río                 |       |  9:00  |           |        |         |        |
+| Vladimir<br/>CMDN Villa Hortensia<br/>Warnes 1917                 |       |        |           |        | 15:00   |        |
 | Soledad<br/>COAD<br/>Tucumán 2254                                 |       |        |           |        |  9:00   |        |
 | Soledad<br/>AMR<br/>España 1033                                   |       |  9:00  |           |  9:00  |         |        |
 | Soledad<br/>AMR<br/>España 1033                                   |       | 10:30  |           | 10:30  |         |        |

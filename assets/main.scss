@@ -5,13 +5,13 @@
 @import "minima";
 
 main .wrapper {
-  background-image: url("back.png");
+  background-image: url("back_sm.png");
   background-repeat: no-repeat;
   background-position: bottom right;
 }
 
 .site-footer {
-  padding: 20px 0;
+  padding: 10px 0;
 }
 
 .footer-col {
@@ -19,9 +19,9 @@ main .wrapper {
 }
 
 .footer-col-1 {
-  width: -webkit-calc(55% - (#{$spacing-unit} / 2));
-  width:         calc(55% - (#{$spacing-unit} / 2));
-  text-align: left;
+  width: -webkit-calc(70% - (#{$spacing-unit} / 2));
+  width:         calc(0% - (#{$spacing-unit} / 2));
+  text-align: center;
   font-size: 80%;
 }
 
@@ -32,14 +32,19 @@ main .wrapper {
 }
 
 .footer-col-3 {
-  width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-  width:         calc(45% - (#{$spacing-unit} / 2));
+  width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+  width:         calc(100% - (#{$spacing-unit} / 2));
   text-align: right;
+}
+
+ul.social-media-list{
+  padding-top: 12px;
 }
 
 .social-media-list li{
   display: inline;
   padding-left: 20px;
+
 }
 
 .post-meta {
@@ -48,12 +53,13 @@ main .wrapper {
 
 .site-footer {
   background-color: #f8f8f8;
+  font-size: 82%;
 }
 
 .site-footer .wrapper {
   text-align: right;
 }
 
-.rss-subscribe {
-  font-size: 80%;
+.rss-subscribe, .username {
+
 }

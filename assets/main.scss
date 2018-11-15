@@ -10,6 +10,10 @@ main .wrapper {
   background-position: bottom right;
 }
 
+.site-header {
+  font-family: 'Overlock SC', "Segoe UI", Arial, sans-serif;
+}
+
 .site-footer {
   padding: 10px 0;
 }
@@ -60,6 +64,6 @@ ul.social-media-list{
   text-align: right;
 }
 
-.rss-subscribe, .username {
-
+h1, h2 {
+  font-family: 'Overlock SC', "Segoe UI", Arial, sans-serif;
 }

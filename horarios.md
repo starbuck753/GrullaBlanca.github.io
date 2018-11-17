@@ -9,7 +9,7 @@ permalink: /horarios/
 |---------------------------------------------------------------------|-------|--------|-----------|--------|---------|--------|
 | Instructor<br/>Lugar<br/>Dirección                                  | Lunes | Martes | Miércoles | Jueves | Viernes | Sábado |
 |---------------------------------------------------------------------|-------|--------|-----------|--------|---------|--------|
-| _Gabriel_<br/>Plataforma Lavarden<br/>Mendoza 1085                  |  9:30 |        |  9:30     |        |         |        |
+| _Gabriel_<br/>##### Plataforma Lavarden<br/>Mendoza 1085                  |  9:30 |        |  9:30     |        |         |        |
 | _Vladimir_<br/>Parque Sunchales<br/>Alvear y el Río                 |       |  9:00  |           |        |         |        |
 | _Vladimir_<br/>CMDN Villa Hortensia<br/>Warnes 1917                 |       |        |           |        | 15:00   |        |
 | _Soledad_<br/>COAD<br/>Tucumán 2254                                 |       |        |           |        |  9:00   |        |

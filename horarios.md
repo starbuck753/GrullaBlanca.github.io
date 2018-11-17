@@ -6,19 +6,19 @@ permalink: /horarios/
 ---
 ###### Lista actualizada el {{ site.time | date: '%d/%m/%Y' }}
 
-|-------------------------------------------------------------------|-------|--------|-----------|--------|---------|--------|
-| Instructor<br/>Lugar<br/>Dirección                                | Lunes | Martes | Miércoles | Jueves | Viernes | Sábado |
-|-------------------------------------------------------------------|-------|--------|-----------|--------|---------|--------|
-| Gabriel<br/>Plataforma Lavarden<br/>Mendoza 1085                  |  9:30 |        |  9:30     |        |         |        |
-| Vladimir<br/>Parque Sunchales<br/>Alvear y el Río                 |       |  9:00  |           |        |         |        |
-| Vladimir<br/>CMDN Villa Hortensia<br/>Warnes 1917                 |       |        |           |        | 15:00   |        |
-| Soledad<br/>COAD<br/>Tucumán 2254                                 |       |        |           |        |  9:00   |        |
-| Soledad<br/>AMR<br/>España 1033                                   |       |  9:00  |           |  9:00  |         |        |
-| Soledad<br/>AMR<br/>España 1033                                   |       | 10:30  |           | 10:30  |         |        |
-| Daniela<br/>Casa Fractal<br/>España 1858                          |       | 18:00  |           |        |         |        |
-| Sebastián<br/>Parque España<br/>Mitre y el Río                    |       | 19:00  |           | 19:00  |         |        |
-| Jorge<br/>Parque Urquiza<br/>Av. Diario La Capital y 3 de Febrero |       |        |           |        |         |  9:00  |
-|-------------------------------------------------------------------|-------|--------|-----------|--------|---------|--------|
+|---------------------------------------------------------------------|-------|--------|-----------|--------|---------|--------|
+| Instructor<br/>Lugar<br/>Dirección                                  | Lunes | Martes | Miércoles | Jueves | Viernes | Sábado |
+|---------------------------------------------------------------------|-------|--------|-----------|--------|---------|--------|
+| _Gabriel_<br/>Plataforma Lavarden<br/>Mendoza 1085                  |  9:30 |        |  9:30     |        |         |        |
+| _Vladimir_<br/>Parque Sunchales<br/>Alvear y el Río                 |       |  9:00  |           |        |         |        |
+| _Vladimir_<br/>CMDN Villa Hortensia<br/>Warnes 1917                 |       |        |           |        | 15:00   |        |
+| _Soledad_<br/>COAD<br/>Tucumán 2254                                 |       |        |           |        |  9:00   |        |
+| _Soledad_<br/>AMR<br/>España 1033                                   |       |  9:00  |           |  9:00  |         |        |
+| _Soledad_<br/>AMR<br/>España 1033                                   |       | 10:30  |           | 10:30  |         |        |
+| _Daniela_<br/>Casa Fractal<br/>España 1858                          |       | 18:00  |           |        |         |        |
+| _Sebastián_<br/>Parque España<br/>Mitre y el Río                    |       | 19:00  |           | 19:00  |         |        |
+| _Jorge_<br/>Parque Urquiza<br/>Av. Diario La Capital y 3 de Febrero |       |        |           |        |         |  9:00  |
+|---------------------------------------------------------------------|-------|--------|-----------|--------|---------|--------|
 
 
 

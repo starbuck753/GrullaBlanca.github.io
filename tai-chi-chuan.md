@@ -38,12 +38,12 @@ A través de su práctica aprendemos que tenemos un cuerpo, una mente y un espí
 
 
 ## ¿Qué es el Tuei Shou?
-Los Tuei Shou o "empuje de manos" son tan importantes para la práctica del Tai Chi como la meditación de pie y la forma.
+Los Tuei Shou o “empuje de manos” son tan importantes para la práctica del Tai Chi como la meditación de pie y la forma.
 
-Existe la idea errónea de que los Tui shou forman parte del aspecto más marcial del entrenamiento y que con la práctica de las secuencias uno puede adquirir los beneficios del Tai Chi, sin derivar hacia caminos vinculados con la agresividad o la competición que se creen relacionados con los Tui Shou. No es así. Mientras que los movimientos de la secuencia tienen una aplicación marcial contundente, en los tui shou solo se pretende practicar los principios básicos del Tai Chi con un compañero.
+Existe la idea errónea de que los Tuei Shous forman parte del aspecto más marcial del entrenamiento y que con la práctica de las secuencias uno puede adquirir los beneficios del Tai Chi, sin derivar hacia caminos vinculados con la agresividad o la competición que se creen relacionados con los Tuei Shous. No es así. Mientras que los movimientos de la secuencia tienen una aplicación marcial contundente, en los Tuei Shous solo se pretende practicar los principios básicos del Tai Chi con un compañero.
 
-No se trata de combatir, ni de enfrentarse, sino más bien de escuchar y entender. Avanzar en la comprensión de nuestro movimiento y entender y anticipar el del compañero.
+No se trata de combatir, ni de enfrentarse, sino más bien de escuchar y entender. Avanzar en la comprensión de nuestro movimiento así como entender y anticipar el del compañero.
 
-Cuando se practican tui shous uno es capaz de valorar si realmente es capaz de actuar relajado, si puede establecer una distinción clara entre "vacío" y "lleno", si puede mantener de manera constante el equilibrio y el centro de gravedad y si en el movimiento del cuerpo, brazos y piernas existe una armonía sin rupturas.
+Cuando se practican Tuei Shous uno es capaz de valorar si realmente puede actuar relajado; establecer una distinción clara entre “vacío” y “lleno”; mantener de manera constante el equilibrio y el centro de gravedad, y si en el movimiento del cuerpo, brazos y piernas existe una armonía sin rupturas.
 
-Hasta que no se practica el empuje de manos se puede creer que principios como "ceder ante la fuerza" o "lo blando vence a lo duro" son principios filosóficos a los que adherirse pero sin entender su aplicación práctica. Al no entender su aplicación no se puede avanzar en dichos principios. Los tui shou son la práctica a través de la que podemos entender la complementariedad de yin y yang, la existencia del uno dentro del otro y su transformación a partir del movimiento, el Tai Chi. 
+Hasta que no se practica el empuje de manos se puede creer que principios como “ceder ante la fuerza” o “lo blando vence a lo duro” son principios filosóficos a los que adherirse pero sin entender su aplicación práctica. Al no entender su aplicación, no se puede avanzar en dichos principios. Los Tuei Shous son la práctica a través de la cual podemos entender la complementariedad de yin y yang, la existencia del uno dentro del otro y su transformación a partir del movimiento, el Tai Chi.

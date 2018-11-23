@@ -6,8 +6,7 @@ category: informacion
 photoset: https://www.flickr.com/photos/168176555@N07/albums/72157700606150902
 ---
 
-Con el regreso de nuestro maestro Gabriel de Taiwan, podemos ver el progreso en nuestros Profesores e Instructores aprendiendo nuevas formas.
+Luego del regreso de nuestro maestro Gabriel de Taiwán, podemos observar el progreso de nuestros Profesores e Instructores aprendiendo nuevas formas.
 
-En esta ocación los vemos practicando una nueva forma con espada.
-
+En esta ocasión, los vemos practicando la forma de espada de 54 movimientos.
 

@@ -12,10 +12,23 @@ main .wrapper {
 
 .site-header {
   font-family: 'Mako', "Segoe UI", Arial, sans-serif;
+
+	background-image: url("header_01.png");
+  background-color: #f8f8f8;
+
+	height: 300px; 
+
+  background-attachment: fixed;
+  background-position: center top;
+  background-repeat: no-repeat;
+
+  border-top: 0px;
 }
 
 .site-footer {
   padding: 10px 0;
+  background-color: #f8f8f8;
+  font-size: 82%;
 }
 
 .footer-col {
@@ -55,15 +68,24 @@ ul.social-media-list{
   font-size: 12px;
 }
 
-.site-footer {
-  background-color: #f8f8f8;
-  font-size: 82%;
-}
-
 .site-footer .wrapper {
   text-align: right;
 }
 
 h1, h2, h3 {
   font-family: 'Overlock SC', "Segoe UI", Arial, sans-serif;
+  color: #666;
+}
+
+
+h1 {
+  color: #f65858;
+  text-align: center;
+  border-bottom: 3px solid #ededed;
+  padding-bottom: 8px;
+}
+
+.post-content h1 {
+  text-align: left;
+  border: 0px;
 }

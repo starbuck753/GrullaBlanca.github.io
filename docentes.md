@@ -26,11 +26,10 @@ Miembros del círculo con más años de práctica que conforman esta hermandad.
 ### Ayudantes de Profesores e Instructores
 - Julia
 - Tom
-- Julian
+- Julián
 - Jorge
  
 
-
-------
+----
 
 Lectura adicional: [Sobre los títulos de familia en las Escuelas Tradicionales]({{ site.baseurl }}{% post_url 2015-04-27-sobre-los-titulos-de-familia-en-las-escuelas-tradicionales %})

@@ -6,4 +6,4 @@ layout: home
 list_title: Publicaciones
 image: /assets/grulla_y_serpiente.jpg
 ---
-<img src="{{ "/assets/grulla_y_serpiente.jpg" | relative_url }}" style="object-fit: cover; width: max-content; height: 250px;">
+<!-- <img src="{{ "/assets/grulla_y_serpiente.jpg" | relative_url }}" style="object-fit: cover; width: max-content; height: 250px;"> -->

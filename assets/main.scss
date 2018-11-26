@@ -2,32 +2,58 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+$header_image: "header_" + floor((random()*5)+1) + ".png";
+
+
 @import "minima";
+
+body {
+  background-color: #f8f8f8;
+}
+
+.page-content {
+  padding: 0;
+}
 
 main .wrapper {
   background-image: url("back_sm.png");
   background-repeat: no-repeat;
   background-position: bottom right;
+  
+  padding: 40px 30px; 
+  background-color: #fff;
 }
 
 .site-header {
   font-family: 'Mako', "Segoe UI", Arial, sans-serif;
 
-	background-image: url("header_01.png");
-  background-color: #f8f8f8;
+	background-image: url($header_image);
+	/*background-image: url("header_1.png");*/
+  /*background-color: #f8f8f8;*/
 
 	height: 300px; 
 
-  background-attachment: fixed;
+  /*background-attachment: fixed;*/
   background-position: center top;
   background-repeat: no-repeat;
 
-  border-top: 0px;
+  border: 0px;
+  margin-bottom: 0px;
+}
+
+.site-tile, .site-title:visited {
+  color: #fefefe;
+  text-decoration: none;
+}
+
+.site-title:hover {
+  color: #fff;
 }
 
 .site-footer {
   padding: 10px 0;
   background-color: #f8f8f8;
+  border: 0px;
   font-size: 82%;
 }
 
@@ -88,4 +114,11 @@ h1 {
 .post-content h1 {
   text-align: left;
   border: 0px;
+}
+
+
+hr {
+  margin: 50px 0 14px 0;
+  border: 1px solid #ededed;
+  background-color: #ededed;
 }

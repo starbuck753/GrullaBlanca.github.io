@@ -2,7 +2,7 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-$header_image: "header_" + floor((random()*5)+1) + ".png";
+/*$header_image: "header_" + floor((random()*5)+1) + ".png";*/
 
 
 @import "minima";
@@ -27,8 +27,8 @@ main .wrapper {
 .site-header {
   font-family: 'Mako', "Segoe UI", Arial, sans-serif;
 
-	background-image: url($header_image);
-	/*background-image: url("header_1.png");*/
+	/*background-image: url($header_image);*/
+	background-image: url("header_1.png");
   /*background-color: #f8f8f8;*/
 
 	height: 300px; 

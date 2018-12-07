@@ -14,6 +14,8 @@ La cooperación entre los hermanos marciales es un deber. Respetar a los hermano
 
 El ambiente deportivo y competitivo es reemplazado así por un ambiente cálido, de amistad, fraternidad y afectos, mucho más formativo y positivo para ayudar a quienes necesitan contención.
 
-Este tipo de Escuela predispone al alumno a encarar una relación verdadera, duradera, que puede durar toda la vida, como durarán también los enormes beneficios de la práctica sostenida y constante.
+Este tipo de Escuela predispone al alumno a encarar una relación verdadera y duradera, ya que puede durar toda la vida, como durarán también los enormes beneficios de la práctica sostenida y constante.
+
+----
 
 Lectura adicional: <http://www.centrosanti.com.ar/articulos/ver/shifu-y-su-significado>

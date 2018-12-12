@@ -9,7 +9,7 @@ permalink: /horarios/
 |---------------------------------------------------------------------|-------|--------|-----------|--------|---------|--------|
 | Instructor<br/>Lugar<br/>Dirección                                  | Lunes | Martes | Miércoles | Jueves | Viernes | Sábado |
 |---------------------------------------------------------------------|:-----:|:------:|:---------:|:------:|:-------:|:------:|
-| _Vladimir_<br/>Parque Sunchales<br/>Alvear y el Río                 |       |  9:00  |           |        |         |        |
+| _Vladimir_<br/>Parque Sunchales<br/>Alvear y el Río                 |       |  8:30  |           |        |         |        |
 | _Vladimir_<br/>CMDN Villa Hortensia<br/>Warnes 1917                 |       |        |           |        | 15:00   |        |
 | _Soledad_<br/>COAD<br/>Tucumán 2254                                 |       |        |           |        |  9:00   |        |
 | _Soledad_<br/>AMR<br/>España 1033                                   |       |  9:00  |           |  9:00  |         |        |

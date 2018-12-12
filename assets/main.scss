@@ -94,6 +94,16 @@ ul.social-media-list{
   font-size: 12px;
 }
 
+
+.post-content td:first-of-type {
+  font-size: 75%;
+}
+
+.post-content td em {
+  font-size: 130%;
+  color:  #1cd1b3;
+}
+
 .site-footer .wrapper {
   text-align: right;
 }

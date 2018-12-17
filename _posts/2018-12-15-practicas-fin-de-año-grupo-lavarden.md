@@ -6,9 +6,5 @@ category: informacion
 photoset: https://www.flickr.com/photos/168176555@N07/albums/72157701371652222
 ---
 
-Con la finalización del año, el grupo Lavarden ha movido sus prácticas al Parque Urquiza y aprovechamos para compartir algunas fotos de los alumnos realizando la forma Se San She.
 
-
-
-
-
+El grupo Lavarden ha trasladado sus prácticas al Parque Urquiza por el verano. Compartimos algunas imágenes de los alumnos e instructures realizando la forma de trece posturas Shi San Shi.

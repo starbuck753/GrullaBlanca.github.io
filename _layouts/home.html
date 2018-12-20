@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+<script>
+  $(".site-header").css("background-image","url('{{ "/assets/" | relative_url }}{{page.headerimage}}')");
+</script>
 
 <div class="home">
   {%- if page.title -%}

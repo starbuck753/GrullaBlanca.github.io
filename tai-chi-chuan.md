@@ -3,6 +3,7 @@ layout: page
 title: Tai Chi Chuan
 excerpt: El Tai Chi Chuan, rama del Wu Shu (arte marcial chino) es una disciplina milenaria; una preciosa herencia cultural de la nación China.
 permalink: /tai-chi-chuan/
+headerimage: header_3.png
 ---
 
 ## ¿Qué es el Tai Chi Chuan?

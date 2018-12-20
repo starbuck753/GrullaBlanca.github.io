@@ -3,7 +3,7 @@ layout: page
 title: Docentes
 excerpt: En nuestra escuela se enseña siguiendo el método tradicional, donde las trasmisiones orales son de vital importancia y la relación instructor/alumno fundamenta el aprendizaje.
 permalink: /docentes/
-headerimage: header_5.png
+headerimage: header_1.png
 ---
 # Conozca a nuestros profesores e instructores.
 En nuestra escuela se enseña siguiendo el método tradicional, donde las trasmisiones orales son de vital importancia y la relación instructor/alumno fundamenta el aprendizaje. Las clases son grupales con “indicaciones y correcciones personalizadas”. Contamos con un método didáctico único que facilita y acerca al iniciado a la concreción de objetivos.

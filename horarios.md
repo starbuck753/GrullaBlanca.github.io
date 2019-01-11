@@ -3,7 +3,6 @@ layout: page
 title: Horarios y Lugares de Práctica
 excerpt: Cronograma actualizado de días, horarios y lugares de práctica.
 permalink: /horarios/
-headerimage: header_4.png
 ---
 ###### Lista actualizada el {{ site.time | date: '%d/%m/%Y' }}
 

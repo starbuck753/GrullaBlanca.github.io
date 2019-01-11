@@ -7,4 +7,4 @@ photoset: https://www.flickr.com/photos/168176555@N07/albums/72157704172228361
 ---
 
 
-Una de las clases que se mantienen activas durante el verano, son las clases de Sebastián en el Parque España. Compartimos algunas imágenes de los alumnos realizando la forma de 37 movimientos.
+Durante el verano mantenemos la actividad en el Parque España con las clases de Sebastián. Compartimos algunas imágenes de los alumnos realizando la forma de 37 movimientos.

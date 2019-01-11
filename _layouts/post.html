@@ -1,6 +1,15 @@
 ---
 layout: default
 ---
+<script>
+  {%- if page.headerimage -%}
+    $(".site-header").css("background-image","url('{{ "/assets/" | relative_url }}{{page.headerimage}}')");
+  {%- else %}
+    var rand1 = Math.floor((Math.random()*4)+1);
+    $(".site-header").css("background-image","url('{{ "/assets/" | relative_url }}" + "header_" + rand1 + ".png')");
+  {%- endif -%}
+</script>
+
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">

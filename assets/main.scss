@@ -41,13 +41,49 @@ main .wrapper {
   margin-bottom: 0px;
 }
 
-.site-tile, .site-title:visited {
+.site-logo-left {
+  margin-left: -18px;
+  margin-top: 10px;
+  float: left;
+  height: 90px;
+}
+
+.site-title, .site-title:visited {
   color: #fefefe;
   text-decoration: none;
+  margin-left: 6px;
 }
 
 .site-title:hover {
   color: #fff;
+}
+
+@media screen and (max-width: 600px) {
+  .site-logo-left {
+    margin-left: -10px;
+  }
+
+  .site-title {
+    font-size: 24px;
+  }
+}
+
+
+h1, h2, h3 {
+  font-family: 'Overlock SC', "Segoe UI", Arial, sans-serif;
+  color: #666;
+}
+
+h1, .post-list-heading {
+  color: #f65858;
+  text-align: center;
+  border-bottom: 3px solid #ededed;
+  padding-bottom: 8px;
+}
+
+.post-content h1 {
+  text-align: left;
+  border: 0px;
 }
 
 .site-footer {
@@ -106,24 +142,6 @@ ul.social-media-list{
 
 .site-footer .wrapper {
   text-align: right;
-}
-
-h1, h2, h3 {
-  font-family: 'Overlock SC', "Segoe UI", Arial, sans-serif;
-  color: #666;
-}
-
-
-h1, .post-list-heading {
-  color: #f65858;
-  text-align: center;
-  border-bottom: 3px solid #ededed;
-  padding-bottom: 8px;
-}
-
-.post-content h1 {
-  text-align: left;
-  border: 0px;
 }
 
 

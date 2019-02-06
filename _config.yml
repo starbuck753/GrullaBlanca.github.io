@@ -18,8 +18,8 @@ email: ""
 description: >- # this means to ignore newlines until "baseurl:"
   Escuela de Tai Chi Chuan Grulla Blanca,
   Sede sudamericana de Shun Yuan Cheng Tzu Tai Chi
-baseurl: "/GrullaBlanca.github.io" # the subpath of your site, e.g. /blog
-url: "https://starbuck753.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.grullablanca.com" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/assets/logo_grulla_small.png"
 logo_right: "/assets/logo_shun_small.png"
 #twitter_username: jekyllrb

@@ -25,4 +25,6 @@ Por consultas por favor comunicarse a través de mensajes en nuestra página de 
 | _Gabriel_<br/>Plataforma Lavarden<br/>Mendoza 1085                  |  9:30 |        |  9:30     |        |         |        |
 | _Daniela_<br/>Casa Fractal<br/>España 1858                          |       | 18:00  |           |        |         |        |
 | _Soledad_<br/>AMR<br/>España 1034                                   |       | 10:30  |           | 10:30  |         |        |
+| _Daniela, Jorge, Tom_<br/>Parque Urquiza<br/>
+      Av. Diario La Capital y 3 de Febrero                            |  9:30 |        |  9:30     |        |         |        |
 -->

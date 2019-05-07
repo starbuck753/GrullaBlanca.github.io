@@ -16,7 +16,8 @@ headerimage: header_parque.png
 | _Soledad_<br/>AMR<br/>España 1034                                   |       |  9:00  |           |  9:00  |         |        |
 | _Soledad_<br/>AMR<br/>España 1034                                   |       | 10:30  |           | 10:30  |         |        |
 | _Sebastián_<br/>Parque España<br/>Mitre y el Río                    |       | 19:00  |           | 19:00  |         |        |
-| _Daniela_<br/>Centro Evolutivo<br/>Suipacha 842                     |       |  9:30  |           |        |  9:30   |        |
+| _Daniela_<br/>Centro Evolutivo<br/>Suipacha 842                     |       |        |           |        |  9:30   |        |
+| _Daniela_<br/>Espacio Sadhana<br/>Balcarce 64 Bis                   |       |  9:30  |           |        |         |        |
 | _Daniela_<br/>Wayra<br/>Maipú 1010                                  |       | 18:00  |           | 18:00  |         |        |
 | _Jorge_<br/>Parque Urquiza<br/>Av. Diario La Capital y 3 de Febrero |       |        |           |        |         |  9:00  |
 |---------------------------------------------------------------------|-------|--------|-----------|--------|---------|--------|

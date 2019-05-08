@@ -22,11 +22,12 @@ headerimage: header_parque.png
 |---------------------------------------------------------------------|-------|--------|-----------|--------|---------|--------|
 
 
-## Clases Adicionales
+### Clases Adicionales
 
-Imagineria Zen - Prof: _Daniela_ - En: Espacio Sadhana (Balcarce 64 Bis) - Martes 9:30 hs.
+**Imagineria Zen** - Prof: _Daniela_ - En: Espacio Sadhana (Balcarce 64 Bis) - Martes 9:30 hs.
 
 
+----
 
 Por consultas por favor comunicarse a través de mensajes en nuestra página de Facebook: <https://m.me/EscuelaGrullaBlanca/>
 
